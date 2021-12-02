@@ -61,8 +61,8 @@ docs.solana.com
 
 So we need to run the command:
 
-sh -c “$(curl -sSfL https://release.solana.com/v1.7.12/install)"  -for mac
-
+sh -c “$(curl -sSfL https://release.solana.com/v1.7.12/install)"  -for mac and lunix
+curl https://release.solana.com/v1.8.6/solana-install-init-x86_64-pc-windows-msvc.exe --output C:\solana-install-tmp\solana-install-init.exe --create-dirs  -for windows
 
 Add the solana command to the $PATH (tutorial here)
 
